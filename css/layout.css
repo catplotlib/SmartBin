@@ -79,7 +79,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: white;
 }
 header .banner-text hr {
    width: 60%;
@@ -261,7 +261,7 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 25px/30px 'roboto-bold', Roboto;
 }
 
 #resume .header-col { padding-top: 9px; }

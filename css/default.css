@@ -572,8 +572,8 @@ legend {
 }
 label span,
 legend span {
-	color: #8B9798;
-   font: 14px/24px 'opensans-regular', sans-serif;
+	color: white;
+   font: 14px/24px 'Roboto-Bold', Roboto;
 }
 
 input[type="checkbox"],
@@ -801,7 +801,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-
