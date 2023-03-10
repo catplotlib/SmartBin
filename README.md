@@ -18,3 +18,4 @@ The loop() function sends a pulse to the ultrasonic sensor, measures the duratio
 
 If an object is detected within 20 cm, the servo motor is activated to open the lid of the trash can for 1 second. The program then waits for 500 ms before taking another measurement.
 
+![schematics](images/schematics.jpg)
