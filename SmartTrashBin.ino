@@ -35,8 +35,6 @@ void setup() {
     closeLid(); // Start with the lid closed
 }
 
-
-
     // If the average distance is less than 20 cm, open the lid of the trash can
     if (averageDistance < 20) {
         openLid();
